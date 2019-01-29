@@ -8,6 +8,7 @@ To run this project locally-
   <li>Download Node js (if you dont't have) </li>
   <li>open repo in cmd</li>
   <li>Run npm install</li>
+  <li>open dist/index.html</li>
 </ul>
 
 <h2>Build with</h2>
@@ -22,4 +23,7 @@ To run this project locally-
   <li>Node js</li> 
   <li>web browser</li>  
 </ul>
-
+<h2> Authors </h2>
+<ul>
+  <li>Deepak Saini</li>
+</ul>
